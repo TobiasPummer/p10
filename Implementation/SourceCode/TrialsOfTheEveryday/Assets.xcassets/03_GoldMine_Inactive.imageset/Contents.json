@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "03_GoldMine_Inactive.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
